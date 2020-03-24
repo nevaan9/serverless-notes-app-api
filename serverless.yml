@@ -1,6 +1,9 @@
 # NOTE: update this with your service name
 service: notes-app-api
 
+org: nevaan9
+app: notes-app
+
 # Create an optimized package for our functions
 package:
   individually: true
